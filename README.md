@@ -14,7 +14,7 @@ Roland</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **HTML,CSS & JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,SQL and Ruby**
 
 - 📫 How to reach me **rolandntwali@gmail.com**
 
@@ -50,4 +50,4 @@ Roland</a></h1>
 
 Credit: [Ntwali Roland](https://github.com/Roland-Ntwali)
 
-Last Edited on: 1/03/2023
+Last Edited on: 15/06/2023
