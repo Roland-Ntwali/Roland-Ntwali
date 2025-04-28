@@ -44,10 +44,10 @@ Roland</a></h1>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roland-Ntwali&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Roland-Ntwali" /> 
 
 ## What I'm doing now
-🔭 Student at Microverse
+Working at GoodLink Solution
 
 ---
 
 Credit: [Ntwali Roland](https://github.com/Roland-Ntwali)
 
-Last Edited on: 15/06/2023
+Last Edited on: 28/04/2025
