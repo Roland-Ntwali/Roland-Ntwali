@@ -124,11 +124,11 @@ Bachelor in Business Management (in progress)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roland-Ntwali&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Roland-Ntwali&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-Ntwali&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roland-Ntwali&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
