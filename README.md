@@ -117,18 +117,12 @@ Bachelor in Business Management (in progress)
 
 ---
 
-## GitHub Stats
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roland-Ntwali&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Roland-Ntwali&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roland-Ntwali&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4ADE80?style=for-the-badge&logo=github" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-0A66C2?style=for-the-badge" alt="4+ years experience" />
+  <img src="https://img.shields.io/badge/Focus-API%20%26%20Product%20Engineering-FFB800?style=for-the-badge" alt="API and Product Engineering" />
 </p>
 
 ---
