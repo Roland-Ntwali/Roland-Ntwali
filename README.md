@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=Backend+Developer;Full-Stack+Engineer;API+and+System+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+%26+Backend;API+%26+Product+Engineering" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi, I’m Roland 👋</h1>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  Backend-focused full-stack developer with 4+ years of experience building and shipping production web platforms for Rwanda’s fintech, property, and regulatory-compliance sectors.
+  Full-stack developer with 4+ years of experience building and shipping production web platforms for Rwanda’s fintech, property, and regulatory-compliance sectors, with strong frontend expertise in modern JavaScript and React-based products.
 </p>
 
 ---
@@ -33,12 +33,12 @@
 
 I build secure, scalable, and business-aware digital products for real-world operations. My work spans fintech, rental management, invoicing, payroll, identity verification, and multi-tenant business systems.
 
-I combine backend engineering with practical product thinking to create systems that are reliable, compliant, and ready for production.
+I combine backend engineering with strong frontend execution to create polished products that are reliable, compliant, and user-friendly from the interface to the infrastructure.
 
-- 💼 Currently: Backend Developer at Good Link Solutions Ltd
+- 💼 Currently: Full-Stack Developer at Good Link Solutions Ltd
 - 🌍 Based in: Kigali, Rwanda
-- 🧠 Core focus: APIs, system architecture, integrations, and backend performance
-- 🚀 Stack: Node.js, NestJS, Laravel, Django, React, PostgreSQL, Redis, Docker
+- 🧠 Core focus: frontend product development, APIs, system architecture, integrations, and backend performance
+- 🚀 Stack: JavaScript, TypeScript, React, Node.js, NestJS, Laravel, Django, PostgreSQL, Redis, Docker
 
 ---
 
@@ -76,11 +76,12 @@ I combine backend engineering with practical product thinking to create systems 
 
 ## Experience
 
-### Good Link Solutions Ltd — Backend Developer
+### Good Link Solutions Ltd — Full-Stack Developer
 Kigali, Rwanda | 2024 – Present
 
-- Design and maintain backend services powering company platforms used by mining companies, traders, landlords, and tenants.
+- Design and maintain full-stack product solutions powering platforms used by mining companies, traders, landlords, and tenants.
 - Build secure RESTful and GraphQL APIs with authentication, role-based access control, and encrypted data handling.
+- Develop responsive frontend features and user-facing experiences using modern JavaScript and React patterns.
 - Integrate government and payment services including RRA EBM, NIDA verification, MTN MoMo, and Airtel Money.
 - Optimize PostgreSQL/MySQL schemas and Redis caching for payroll, invoicing, and payment workloads.
 
@@ -137,6 +138,7 @@ Bachelor in Business Management (in progress)
 I’m open to collaboration, product engineering conversations, and meaningful software opportunities.
 
 - Email: rolandntwali@gmail.com
+- Portfolio: https://roland-ntwali.github.io/Portfolio
 - LinkedIn: https://www.linkedin.com/in/roland-ntwali/
 - GitHub: https://github.com/Roland-Ntwali
 - Twitter: https://twitter.com/_Ntwali
